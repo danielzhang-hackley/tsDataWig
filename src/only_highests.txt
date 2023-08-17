@@ -1,0 +1,47 @@
+data,imputer,missingness,mse,percent_missing
+
+data               make_swiss_roll
+imputer                 sklearn_rf
+missingness                    MAR
+mse                        22350.2
+percent_missing                 30
+
+
+
+data               make_swiss_roll
+imputer                 sklearn_rf
+missingness                   MCAR
+mse                        19416.5
+percent_missing                 30
+
+
+
+data               make_swiss_roll
+imputer                 sklearn_rf
+missingness                   MNAR
+mse                        36538.2
+percent_missing                 30
+
+
+
+data               make_swiss_roll
+imputer                 sklearn_rf
+missingness                    MAR
+mse                        17115.4
+percent_missing                 10
+
+
+
+data               make_swiss_roll
+imputer                 sklearn_rf
+missingness                   MCAR
+mse                        18386.3
+percent_missing                 10
+
+
+
+data               make_swiss_roll
+imputer                 sklearn_rf
+missingness                   MNAR
+mse                        24725.9
+percent_missing                 10

@@ -1,0 +1,186 @@
+imputer: impute_datawig, percent missing: 1, missingness: MCAR, MSE: 0.6214599284099092, correlation: 0.8396769041740527, norm: 25.102995187978024
+imputer: impute_datawig, percent missing: 1, missingness: MCAR, MSE: 0.6115308429788932, correlation: 0.8533330017794345, norm: 24.81555074705668
+imputer: impute_datawig, percent missing: 1, missingness: MCAR, MSE: 0.6023845738265227, correlation: 0.8375932214111612, norm: 24.022581495871933
+imputer: impute_datawig, percent missing: 1, missingness: MAR, MSE: 0.6178687179831188, correlation: 0.7630826035199278, norm: 24.85696518047042
+imputer: impute_datawig, percent missing: 1, missingness: MAR, MSE: 0.5896285280838958, correlation: 0.8308620946266221, norm: 24.282267770615984
+imputer: impute_datawig, percent missing: 1, missingness: MAR, MSE: 0.6390215103829666, correlation: 0.8644033960943169, norm: 25.27887478474797
+imputer: impute_datawig, percent missing: 1, missingness: MNAR, MSE: 0.5483508302462199, correlation: 0.7295836918503431, norm: 23.416891985193505
+imputer: impute_datawig, percent missing: 1, missingness: MNAR, MSE: 0.6314851338071976, correlation: 0.8409615596994819, norm: 25.129367954789423
+imputer: impute_datawig, percent missing: 1, missingness: MNAR, MSE: 0.4476485831481223, correlation: 0.7772287804570703, norm: 21.157707417112146
+imputer: impute_datawig, percent missing: 5, missingness: MCAR, MSE: 0.6719817475895539, correlation: 0.8272114237070051, norm: 57.9705159516056
+imputer: impute_datawig, percent missing: 5, missingness: MCAR, MSE: 0.6400981217631155, correlation: 0.824825213984569, norm: 56.84940999502079
+imputer: impute_datawig, percent missing: 5, missingness: MCAR, MSE: 0.6012535096013161, correlation: 0.8367389560688376, norm: 55.048321394849395
+imputer: impute_datawig, percent missing: 5, missingness: MAR, MSE: 0.6310231371455011, correlation: 0.8404387647297159, norm: 56.17041646389588
+imputer: impute_datawig, percent missing: 5, missingness: MAR, MSE: 0.6204699579148046, correlation: 0.8314115923967179, norm: 55.698741364361396
+imputer: impute_datawig, percent missing: 5, missingness: MAR, MSE: 0.6374805671263922, correlation: 0.8076122922559084, norm: 56.45708844451652
+imputer: impute_datawig, percent missing: 5, missingness: MNAR, MSE: 0.7249198622091599, correlation: 0.7774527849880493, norm: 60.2046452613567
+imputer: impute_datawig, percent missing: 5, missingness: MNAR, MSE: 0.6172760188951907, correlation: 0.746357020983399, norm: 55.55519862691477
+imputer: impute_datawig, percent missing: 5, missingness: MNAR, MSE: 0.6941071528768261, correlation: 0.7950161925248804, norm: 58.91125329157521
+imputer: impute_datawig, percent missing: 10, missingness: MCAR, MSE: 0.6429524455921134, correlation: 0.8306099595153934, norm: 79.70175758695714
+imputer: impute_datawig, percent missing: 10, missingness: MCAR, MSE: 0.6572030101436956, correlation: 0.8254450010111367, norm: 81.51271331855395
+imputer: impute_datawig, percent missing: 10, missingness: MCAR, MSE: 0.6650773892418167, correlation: 0.8267239425000384, norm: 81.26634281897543
+imputer: impute_datawig, percent missing: 10, missingness: MAR, MSE: 0.7121629835165115, correlation: 0.7651102448440227, norm: 84.38974958586569
+imputer: impute_datawig, percent missing: 10, missingness: MAR, MSE: 0.6261583287261767, correlation: 0.8336911422700872, norm: 79.13016673343844
+imputer: impute_datawig, percent missing: 10, missingness: MAR, MSE: 0.6320887330705757, correlation: 0.7511538361362172, norm: 79.50400826817322
+imputer: impute_datawig, percent missing: 10, missingness: MNAR, MSE: 0.6201571232566571, correlation: 0.815226161607303, norm: 78.75005544484759
+imputer: impute_datawig, percent missing: 10, missingness: MNAR, MSE: 0.5004891719370149, correlation: 0.8258339364267819, norm: 70.7452593420234
+imputer: impute_datawig, percent missing: 10, missingness: MNAR, MSE: 0.609593156108931, correlation: 0.6983288735582193, norm: 78.07644690359128
+imputer: impute_datawig, percent missing: 20, missingness: MCAR, MSE: 0.7092966428734816, correlation: 0.8109970460917333, norm: 119.68986714052159
+imputer: impute_datawig, percent missing: 20, missingness: MCAR, MSE: 0.7354721441177734, correlation: 0.80634723417642, norm: 120.79638793977503
+imputer: impute_datawig, percent missing: 20, missingness: MCAR, MSE: 0.7156299776458277, correlation: 0.8124101113915101, norm: 118.6411649905537
+imputer: impute_datawig, percent missing: 20, missingness: MAR, MSE: 0.6973310487194255, correlation: 0.7461372056876734, norm: 118.09581268778545
+imputer: impute_datawig, percent missing: 20, missingness: MAR, MSE: 0.6253848337134378, correlation: 0.8243669910934551, norm: 111.83781415187241
+imputer: impute_datawig, percent missing: 20, missingness: MAR, MSE: 0.6109985124447813, correlation: 0.818782144110497, norm: 110.54397427673581
+imputer: impute_datawig, percent missing: 20, missingness: MNAR, MSE: 0.5721911111145263, correlation: 0.7420968293700131, norm: 106.97580204088459
+imputer: impute_datawig, percent missing: 20, missingness: MNAR, MSE: 0.7243966560625524, correlation: 0.7098900123819512, norm: 120.36583037245681
+imputer: impute_datawig, percent missing: 20, missingness: MNAR, MSE: 0.5776340702672592, correlation: 0.6858496965346499, norm: 107.48340060374525
+
+
+(regeneron_project) danielzhang@DWL-XPS-8940:~$ pip install sdv
+Collecting sdv
+  Downloading sdv-0.6.1-py2.py3-none-any.whl (72 kB)
+     |████████████████████████████████| 72 kB 469 kB/s
+Collecting copulas<0.4,>=0.3.3
+  Downloading copulas-0.3.3-py2.py3-none-any.whl (47 kB)
+     |████████████████████████████████| 47 kB 6.2 MB/s
+Requirement already satisfied: scipy<2,>=1.2 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from copulas<0.4,>=0.3.3->sdv) (1.5.2)
+Collecting ctgan<0.4,>=0.3.0
+  Downloading ctgan-0.3.0-py2.py3-none-any.whl (20 kB)
+Requirement already satisfied: packaging in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from ctgan<0.4,>=0.3.0->sdv) (20.8)
+Requirement already satisfied: scikit-learn<0.24,>=0.21 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from ctgan<0.4,>=0.3.0->sdv) (0.22.1)
+Collecting deepecho<0.2,>=0.1.3
+  Downloading deepecho-0.1.3-py2.py3-none-any.whl (26 kB)
+Requirement already satisfied: tqdm<5,>=4 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from deepecho<0.2,>=0.1.3->sdv) (4.56.0)
+Collecting graphviz<1,>=0.13.2
+  Downloading graphviz-0.16-py2.py3-none-any.whl (19 kB)
+Collecting matplotlib<3.2.2,>=2.2.2
+  Downloading matplotlib-3.2.1-cp37-cp37m-manylinux1_x86_64.whl (12.4 MB)
+     |████████████████████████████████| 12.4 MB 8.0 MB/s
+Requirement already satisfied: kiwisolver>=1.0.1 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from matplotlib<3.2.2,>=2.2.2->copulas<0.4,>=0.3.3->sdv) (1.3.1)
+Requirement already satisfied: python-dateutil>=2.1 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from matplotlib<3.2.2,>=2.2.2->copulas<0.4,>=0.3.3->sdv) (2.8.1)
+Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.1 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from matplotlib<3.2.2,>=2.2.2->copulas<0.4,>=0.3.3->sdv) (2.4.7)
+Requirement already satisfied: cycler>=0.10 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from matplotlib<3.2.2,>=2.2.2->copulas<0.4,>=0.3.3->sdv) (0.10.0)
+Requirement already satisfied: six in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from cycler>=0.10->matplotlib<3.2.2,>=2.2.2->copulas<0.4,>=0.3.3->sdv) (1.15.0)
+Collecting numpy<2,>=1.18.0
+  Using cached numpy-1.19.5-cp37-cp37m-manylinux2010_x86_64.whl (14.8 MB)
+Collecting pandas<1.1.5,>=1.1
+  Downloading pandas-1.1.4-cp37-cp37m-manylinux1_x86_64.whl (9.5 MB)
+     |████████████████████████████████| 9.5 MB 12.1 MB/s
+Requirement already satisfied: pytz>=2017.2 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from pandas<1.1.5,>=1.1->sdv) (2020.5)
+Collecting rdt<0.3,>=0.2.10
+  Downloading rdt-0.2.10-py2.py3-none-any.whl (21 kB)
+Collecting Faker<4.15,>=1.0.1
+  Downloading Faker-4.14.2-py3-none-any.whl (1.1 MB)
+     |████████████████████████████████| 1.1 MB 30.9 MB/s
+Collecting text-unidecode==1.3
+  Downloading text_unidecode-1.3-py2.py3-none-any.whl (78 kB)
+     |████████████████████████████████| 78 kB 4.4 MB/s
+Requirement already satisfied: joblib>=0.11 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from scikit-learn<0.24,>=0.21->ctgan<0.4,>=0.3.0->sdv) (1.0.0)
+Collecting sdmetrics<0.2.0,>=0.1.1
+  Downloading sdmetrics-0.1.1-py2.py3-none-any.whl (78 kB)
+     |████████████████████████████████| 78 kB 9.9 MB/s
+Requirement already satisfied: seaborn<0.11,>=0.9 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from sdmetrics<0.2.0,>=0.1.1->sdv) (0.10.1)
+Collecting pomegranate<0.13.5,>=0.13.0
+  Downloading pomegranate-0.13.4-cp37-cp37m-manylinux2010_x86_64.whl (12.5 MB)
+     |████████████████████████████████| 12.5 MB 9.9 MB/s
+Requirement already satisfied: pyyaml in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from pomegranate<0.13.5,>=0.13.0->sdmetrics<0.2.0,>=0.1.1->sdv) (5.3.1)
+Collecting networkx>=2.0
+  Downloading networkx-2.5-py3-none-any.whl (1.6 MB)
+     |████████████████████████████████| 1.6 MB 6.1 MB/s
+Requirement already satisfied: decorator>=4.3.0 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from networkx>=2.0->pomegranate<0.13.5,>=0.13.0->sdmetrics<0.2.0,>=0.1.1->sdv) (4.4.2)
+Collecting sktime<0.5,>=0.4
+  Downloading sktime-0.4.3-cp37-cp37m-manylinux2014_x86_64.whl (5.6 MB)
+     |████████████████████████████████| 5.6 MB 5.7 MB/s
+Requirement already satisfied: wheel in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from sktime<0.5,>=0.4->sdmetrics<0.2.0,>=0.1.1->sdv) (0.36.2)
+Collecting scikit-learn<0.24,>=0.21
+  Downloading scikit_learn-0.23.2-cp37-cp37m-manylinux1_x86_64.whl (6.8 MB)
+     |████████████████████████████████| 6.8 MB 8.9 MB/s
+Collecting statsmodels>=0.12.0
+  Downloading statsmodels-0.12.1-cp37-cp37m-manylinux1_x86_64.whl (9.5 MB)
+     |████████████████████████████████| 9.5 MB 6.1 MB/s
+Collecting patsy>=0.5
+  Downloading patsy-0.5.1-py2.py3-none-any.whl (231 kB)
+     |████████████████████████████████| 231 kB 5.5 MB/s
+Collecting threadpoolctl>=2.0.0
+  Using cached threadpoolctl-2.1.0-py3-none-any.whl (12 kB)
+Collecting torch<2,>=1.0
+  Downloading torch-1.7.1-cp37-cp37m-manylinux1_x86_64.whl (776.8 MB)
+     |████████████████████████████████| 776.8 MB 30 kB/s
+Requirement already satisfied: typing-extensions in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from torch<2,>=1.0->ctgan<0.4,>=0.3.0->sdv) (3.7.4.3)
+Collecting torchvision<1,>=0.4.2
+  Downloading torchvision-0.8.2-cp37-cp37m-manylinux1_x86_64.whl (12.8 MB)
+     |████████████████████████████████| 12.8 MB 12.7 MB/s
+Requirement already satisfied: pillow>=4.1.1 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from torchvision<1,>=0.4.2->ctgan<0.4,>=0.3.0->sdv) (8.1.0)
+Collecting tsfresh<1,>=0.15
+  Downloading tsfresh-0.17.0-py2.py3-none-any.whl (91 kB)
+     |████████████████████████████████| 91 kB 1.6 MB/s
+Requirement already satisfied: requests>=2.9.1 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from tsfresh<1,>=0.15->sdmetrics<0.2.0,>=0.1.1->sdv) (2.25.1)
+Collecting dask[dataframe]>=2.9.0
+  Downloading dask-2021.1.0-py3-none-any.whl (889 kB)
+     |████████████████████████████████| 889 kB 35.2 MB/s
+Requirement already satisfied: toolz>=0.8.2 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from dask[dataframe]>=2.9.0->tsfresh<1,>=0.15->sdmetrics<0.2.0,>=0.1.1->sdv) (0.11.1)
+Collecting distributed>=2.11.0
+  Downloading distributed-2021.1.0-py3-none-any.whl (671 kB)
+     |████████████████████████████████| 671 kB 7.2 MB/s
+Requirement already satisfied: setuptools in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from distributed>=2.11.0->tsfresh<1,>=0.15->sdmetrics<0.2.0,>=0.1.1->sdv) (51.1.2.post20210112)
+Requirement already satisfied: tornado>=5 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from distributed>=2.11.0->tsfresh<1,>=0.15->sdmetrics<0.2.0,>=0.1.1->sdv) (6.1)
+Collecting click>=6.6
+  Using cached click-7.1.2-py2.py3-none-any.whl (82 kB)
+Collecting cloudpickle>=1.5.0
+  Downloading cloudpickle-1.6.0-py3-none-any.whl (23 kB)
+Collecting fsspec>=0.6.0
+  Downloading fsspec-0.8.5-py3-none-any.whl (98 kB)
+     |████████████████████████████████| 98 kB 12.0 MB/s
+Collecting msgpack>=0.6.0
+  Downloading msgpack-1.0.2-cp37-cp37m-manylinux1_x86_64.whl (273 kB)
+     |████████████████████████████████| 273 kB 22.7 MB/s
+Collecting partd>=0.3.10
+  Downloading partd-1.1.0-py3-none-any.whl (19 kB)
+Collecting psutil>=5.0
+  Downloading psutil-5.8.0-cp37-cp37m-manylinux2010_x86_64.whl (296 kB)
+     |████████████████████████████████| 296 kB 11.0 MB/s
+Requirement already satisfied: idna<3,>=2.5 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from requests>=2.9.1->tsfresh<1,>=0.15->sdmetrics<0.2.0,>=0.1.1->sdv) (2.10)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from requests>=2.9.1->tsfresh<1,>=0.15->sdmetrics<0.2.0,>=0.1.1->sdv) (1.26.2)
+Requirement already satisfied: certifi>=2017.4.17 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from requests>=2.9.1->tsfresh<1,>=0.15->sdmetrics<0.2.0,>=0.1.1->sdv) (2020.12.5)
+Requirement already satisfied: chardet<5,>=3.0.2 in ./miniconda3/envs/regeneron_project/lib/python3.7/site-packages (from requests>=2.9.1->tsfresh<1,>=0.15->sdmetrics<0.2.0,>=0.1.1->sdv) (4.0.0)
+Collecting sortedcontainers!=2.0.0,!=2.0.1
+  Downloading sortedcontainers-2.3.0-py2.py3-none-any.whl (29 kB)
+Collecting tblib>=1.6.0
+  Downloading tblib-1.7.0-py2.py3-none-any.whl (12 kB)
+Collecting xeger<0.4,>=0.3.5
+  Downloading xeger-0.3.5.tar.gz (4.1 kB)
+Collecting zict>=0.1.3
+  Downloading zict-2.0.0-py3-none-any.whl (10 kB)
+Collecting heapdict
+  Downloading HeapDict-1.0.1-py3-none-any.whl (3.9 kB)
+Collecting locket
+  Downloading locket-0.2.0.tar.gz (3.5 kB)
+Building wheels for collected packages: xeger, locket
+  Building wheel for xeger (setup.py) ... done
+  Created wheel for xeger: filename=xeger-0.3.5-py3-none-any.whl size=4742 sha256=986cd93419a297df5ef4919e6ccdefd91314b2f2c7158bcb5963e39d6f8fbec7
+  Stored in directory: /home/danielzhang/.cache/pip/wheels/1e/b1/0b/0f0b42e9f30a68beefaded2395b3c222be13ca3631023fe248
+  Building wheel for locket (setup.py) ... done
+  Created wheel for locket: filename=locket-0.2.0-py3-none-any.whl size=4039 sha256=cd777f6e85af02276c1dfa32416cbe99a91823c9ad49d09183e6f629060b43b5
+  Stored in directory: /home/danielzhang/.cache/pip/wheels/7d/21/ce/56f01c644a11bde5d09ecae16d9b5e9d7e988187624fd28fec
+Successfully built xeger locket
+Installing collected packages: numpy, locket, heapdict, zict, threadpoolctl, text-unidecode, tblib, sortedcontainers, psutil, patsy, partd, pandas, msgpack, fsspec, dask, cloudpickle, click, torch, statsmodels, scikit-learn, networkx, matplotlib, Faker, distributed, tsfresh, torchvision, sktime, rdt, pomegranate, xeger, sdmetrics, graphviz, deepecho, ctgan, copulas, sdv
+  Attempting uninstall: numpy
+    Found existing installation: numpy 1.14.6
+    Uninstalling numpy-1.14.6:
+      Successfully uninstalled numpy-1.14.6
+  Attempting uninstall: pandas
+    Found existing installation: pandas 0.25.3
+    Uninstalling pandas-0.25.3:
+      Successfully uninstalled pandas-0.25.3
+  Attempting uninstall: scikit-learn
+    Found existing installation: scikit-learn 0.22.1
+    Uninstalling scikit-learn-0.22.1:
+      Successfully uninstalled scikit-learn-0.22.1
+  Attempting uninstall: matplotlib
+    Found existing installation: matplotlib 3.2.2
+    Uninstalling matplotlib-3.2.2:
+      Successfully uninstalled matplotlib-3.2.2
+  Attempting uninstall: graphviz
+    Found existing installation: graphviz 0.8.4
+    Uninstalling graphviz-0.8.4:
+      Successfully uninstalled graphviz-0.8.4
